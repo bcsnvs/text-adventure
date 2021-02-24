@@ -10,9 +10,9 @@ const app = express();
 
 app.get("/", function(request, response){
 
+    const fileContents = fs.readFileSync("./templates/intro.html", "utf8");
 
-
-
+    response.send(fileContents);
 
 
 
