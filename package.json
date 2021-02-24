@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bcsnvs/text-adventure/issues"
   },
-  "homepage": "https://github.com/bcsnvs/text-adventure#readme"
+  "homepage": "https://github.com/bcsnvs/text-adventure#readme",
+  "dependencies": {
+    "chance": "^1.1.7",
+    "express": "^4.17.1"
+  }
 }
