@@ -1,0 +1,19 @@
+{
+  "name": "text-adventure",
+  "version": "1.0.0",
+  "description": "RPG text based adventure",
+  "main": "adventure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcsnvs/text-adventure.git"
+  },
+  "author": "bcsnvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcsnvs/text-adventure/issues"
+  },
+  "homepage": "https://github.com/bcsnvs/text-adventure#readme"
+}
